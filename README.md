@@ -1,2 +1,2 @@
 # project
-a project for six
+a project demo
